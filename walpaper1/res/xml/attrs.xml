@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<declare-styleable name="Wallpaper">
+ <attr name="settingsActivity"/>
+
+ <attr name="thumbnail" format="reference"/>
+ 
+ <attr name="author" format="reference"/>
+ 
+ <attr name="description"/>
+ 
+</declare-styleable>

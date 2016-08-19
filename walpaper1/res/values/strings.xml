@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OKLiveWallpaper</string>
+    <string name="settings_title">OKLiveWallpaper settings</string>
+    <string name="description">OKLiveWallpaper from the www.okitoki.kr</string>
+    <string name="preference_radius_title">Configure radius</string>
+    <string name="preference_radius_summary">Touch tracking radius and duration</string>
+</resources>
